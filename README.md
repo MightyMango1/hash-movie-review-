@@ -1,6 +1,7 @@
 # Hash-Based Movie Sentiment Analyzer
-![C++([https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white))
+![C++(https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 
+Movie Sentiment analyzer based on hash table placements and trained on a list of text rated sentiment values.
 
 ## Contributing
 Contributions are welcome! If you'd like to enhance Phish Fall, feel free to fork the repository and submit a pull request.
