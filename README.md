@@ -1,6 +1,6 @@
 # Hash-Based Movie Sentiment Analyzer
-![C++(https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-
+![Next.js](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+<br>
 Movie Sentiment analyzer based on hash table placements and trained on a list of text rated sentiment values.
 
 ## Contributing
