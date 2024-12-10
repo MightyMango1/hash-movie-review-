@@ -4,7 +4,7 @@
 Movie Sentiment analyzer based on hash table placements and trained on a list of text rated sentiment values.
 
 ## Contributing
-Contributions are welcome! If you'd like to enhance Phish Fall, feel free to fork the repository and submit a pull request.
+Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
 For any questions or feedback, please feel free to contact me!
 
